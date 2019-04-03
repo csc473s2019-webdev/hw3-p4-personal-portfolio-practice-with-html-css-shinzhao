@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    padding: 0;
     text-align: center;
 }
 
@@ -19,6 +20,26 @@ body {
     font-size: 3rem;
 }
 
-nav {
+.navbar {
+    background-color: #EEEEEE;
+    color: #00adb5;
+    list-style: none;
     position: fixed;
+    text-align: left;
+    text-decoration: none;
+    width: 100vw;
+}
+
+/* #nav-home {
+    
+} */
+
+/* li {
+    text-align: right;
+    text-decoration: none;
+    margin-left: 80vw;
+} */
+
+#projects {
+    height: 1000px;
 }

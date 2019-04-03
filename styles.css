@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+#welcome-section {
+    background-color: #EEEEEE;
+    color: #00adb5;
+    font-family: 'Ubuntu Mono', monospace;
+    height: 75vh;
+    padding-top: 25vh;
+}
+
+#welcome-h1 {
+    font-size: 8rem;
+}
+
+#welcome-p {
+    font-size: 3rem;
+}

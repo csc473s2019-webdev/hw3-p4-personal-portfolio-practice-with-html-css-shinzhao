@@ -18,3 +18,7 @@ body {
 #welcome-p {
     font-size: 3rem;
 }
+
+nav {
+    position: fixed;
+}
